@@ -22,3 +22,9 @@ Conclusion: Thus, the Dynamic Programming approach efficiently finds the minimum
 Summary: The Coin Change Problem uses Dynamic Programming to find the minimum number of coins required to make a given amount. It stores the best result for each smaller amount and uses it to calculate the final answer.
 
 Conclusion: Thus, the Dynamic Programming approach efficiently finds the minimum number of coins and determines whether the given amount can be formed or not.
+
+=> PRACTICAL 6:-)
+Summary:Matrix Chain Multiplication is an optimization problem solved using Dynamic Programming. It finds the minimum number of scalar multiplications required to multiply a sequence of matrices. The program uses a DP table to calculate the minimum multiplication cost for different matrix chains.
+
+Conclusion:The program demonstrates how Dynamic Programming reduces repeated calculations and finds an efficient matrix multiplication order. It helps minimize computational cost and improves the efficiency of solving the Matrix Chain Multiplication problem.
+
