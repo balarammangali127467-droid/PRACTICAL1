@@ -28,3 +28,13 @@ Summary:Matrix Chain Multiplication is an optimization problem solved using Dyna
 
 Conclusion:The program demonstrates how Dynamic Programming reduces repeated calculations and finds an efficient matrix multiplication order. It helps minimize computational cost and improves the efficiency of solving the Matrix Chain Multiplication problem.
 
+PRACTICAL 8:-) SUMMARY OF PRACTICAL 8:BFS and DFS are methods used to visit all the nodes of a graph. BFS visits nodes level by level and uses a queue. DFS visits nodes deeply one by one and uses a stack or recursion.
+
+CONCLUSION:BFS and DFS are useful graph traversal techniques. BFS is useful for level-wise searching, while DFS is useful for deep searching and backtracking.
+
+PRACTICAL 9:-) SUMMARY OF PRACTICAL 9:Prim's Algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) of a weighted, connected graph by repeatedly selecting the minimum-weight edge.
+
+CONCLUSION:Prim's Algorithm efficiently connects all vertices with minimum total edge weight and is useful for network and graph optimization problems.
+
+
+
